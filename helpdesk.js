@@ -1,5 +1,5 @@
 var config = {
-    host: 'qap.epl.gov.br',
+    host: 'qlik.epl.gov.br',
     prefix: '',
     port: '443',
     isSecure: true

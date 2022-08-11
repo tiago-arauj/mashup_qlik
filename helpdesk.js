@@ -21,7 +21,7 @@ require ( ["js/qlik"], function ( qlik ) {
         });
 
         // open apps --colocar aqui--
-        var app = qlik.openApp ( '3fb3805c-5667-45a5-afbf-54605feda214', config );
+        var app = qlik.openApp ( '3fb3805c-5667-45a5-afbf-54605feda214', config ); 
         
         
         // get objects -- colocar aqui--
@@ -115,4 +115,6 @@ require ( ["js/qlik"], function ( qlik ) {
 
             })
         })
+
+        
 }); 

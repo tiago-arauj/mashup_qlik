@@ -110,11 +110,11 @@ require ( ["js/qlik"], function ( qlik ) {
                     vis.show("Decolagens e passageiros");
                 });
                 app.visualization.get('cCPwJsV').then(function(vis){
-                    vis.show("Gráfico de barras - Assentos disponíveis nas companhias aéreas");
+                    vis.show("Gráfico de barras - Assentos disponíveis nas companhiass aaéreas");
                 });
 
             })
         })
 
-        
+
 }); 
